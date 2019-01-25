@@ -12,6 +12,9 @@ params:
 
 Output: End Balance validated with unique references are sent with error description
 
+Note: Add VM arguments to select the environment.
+exmaple java -jar *.jar -Denv=uat
+
 
 Below are the set of items covered as part of the work
 
